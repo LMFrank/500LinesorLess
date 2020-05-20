@@ -1,3 +1,8 @@
 # -*- coding: utf-8 -*-
-class BinaryTree(object):
+import pickle
+
+from logical import LogicalBase
+
+
+class BinaryTree(LogicalBase):
     pass
